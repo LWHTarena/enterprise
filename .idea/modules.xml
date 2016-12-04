@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/e-assets-resources/e-assets-resources.iml" filepath="$PROJECT_DIR$/e-assets-resources/e-assets-resources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e-common-service/e-common-service.iml" filepath="$PROJECT_DIR$/e-common-service/e-common-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e-core-service/e-core-service.iml" filepath="$PROJECT_DIR$/e-core-service/e-core-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e-crawl-service/e-crawl-service.iml" filepath="$PROJECT_DIR$/e-crawl-service/e-crawl-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e-jasper-service/e-jasper-service.iml" filepath="$PROJECT_DIR$/e-jasper-service/e-jasper-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e-project-tools/e-project-tools.iml" filepath="$PROJECT_DIR$/e-project-tools/e-project-tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enterprise.iml" filepath="$PROJECT_DIR$/enterprise.iml" />
+    </modules>
+  </component>
+</project>
